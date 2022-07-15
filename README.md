@@ -17,3 +17,11 @@ Principalment a investigadors *early-stage* (predocs o similars) que desenvolupi
 
 ## Temes/Speakers
 (Per confirmar)
+
+Possibles temes:
+1. R (qué és? per a qué serveix?
+2. Python (qué es? per a qué serveix?)
+3. Data visualization
+4. Com demanar un grant/funding?
+5. Gestors bibliogràfics (Mendeley, Zotero...)
+6. Git & GitHub
